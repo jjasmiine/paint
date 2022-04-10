@@ -33,6 +33,7 @@ h1 {
 }
 
 .header {
+    position: fixed;
     background: #171312;
     width: 100vw;
     height: 4rem;
